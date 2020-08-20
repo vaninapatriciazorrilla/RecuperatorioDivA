@@ -8,11 +8,11 @@ informar:
 */
 function mostrar()
 {
-	let sexoTitular;
+    let sexoTitular;
     let lugar;
     let temporada;
     let cantidad;
-    let lugarFavorito;
+	let lugarFavorito;
 	let contadorBariloche = 0;
 	let contadorCataratas = 0;
     let contadorSalta = 0;
@@ -20,7 +20,7 @@ function mostrar()
     let maxPasajeros;
     let contadorInvierno=0;// cuento la cantidad de viajes en invierno
     let acumuladorInvierno=0; // acumulo las personas que viajan en invierno
-    let promedio;
+    let promedio = 0;
     let flag=0;
 	let seguir;
 	
